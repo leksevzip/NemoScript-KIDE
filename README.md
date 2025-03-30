@@ -1,5 +1,6 @@
 # NemoScript KIDE
-> The ***very bad*** IDE choice  
+> The ***very bad*** IDE choice
+
 That's a some kind of IDE that i made for [NemoScript](https://github.com/leksevzip/NemoScript/tree/main)  
 ## How to use it?
 ```"run"```  
