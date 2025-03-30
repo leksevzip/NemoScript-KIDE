@@ -1,0 +1,18 @@
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\bin\Debug\net9.0\NemoScript KIDE 2025.exe
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\bin\Debug\net9.0\NemoScript KIDE 2025.deps.json
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\bin\Debug\net9.0\NemoScript KIDE 2025.runtimeconfig.json
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\bin\Debug\net9.0\NemoScript KIDE 2025.dll
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\bin\Debug\net9.0\NemoScript KIDE 2025.pdb
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\bin\Debug\net9.0\NemoScript v2025.dll
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\bin\Debug\net9.0\NemoScript v2025.pdb
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\obj\Debug\net9.0\NemoScript KIDE 2025.csproj.AssemblyReference.cache
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\obj\Debug\net9.0\NemoScript KIDE 2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\obj\Debug\net9.0\NemoScript KIDE 2025.AssemblyInfoInputs.cache
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\obj\Debug\net9.0\NemoScript KIDE 2025.AssemblyInfo.cs
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\obj\Debug\net9.0\NemoScript KIDE 2025.csproj.CoreCompileInputs.cache
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\obj\Debug\net9.0\NemoScri.22E54540.Up2Date
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\obj\Debug\net9.0\NemoScript KIDE 2025.dll
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\obj\Debug\net9.0\refint\NemoScript KIDE 2025.dll
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\obj\Debug\net9.0\NemoScript KIDE 2025.pdb
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\obj\Debug\net9.0\NemoScript KIDE 2025.genruntimeconfig.cache
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\obj\Debug\net9.0\ref\NemoScript KIDE 2025.dll

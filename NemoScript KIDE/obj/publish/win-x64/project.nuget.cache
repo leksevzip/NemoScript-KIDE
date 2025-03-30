@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hztZFl5wUdc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\flish\\Desktop\\leksev software labs\\NemoScript KIDE 2025\\NemoScript KIDE 2025\\NemoScript KIDE 2025.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flish\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.3\\microsoft.net.illink.tasks.9.0.3.nupkg.sha512",
+    "C:\\Users\\flish\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.3\\microsoft.netcore.app.runtime.win-x64.9.0.3.nupkg.sha512",
+    "C:\\Users\\flish\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.3.nupkg.sha512",
+    "C:\\Users\\flish\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.3\\microsoft.aspnetcore.app.runtime.win-x64.9.0.3.nupkg.sha512",
+    "C:\\Users\\flish\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\9.0.3\\microsoft.netcore.app.crossgen2.win-x64.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\bin\publish\NemoScript KIDE 2025.pdb
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\bin\publish\NemoScript v2025.pdb
+C:\Users\flish\Desktop\leksev software labs\NemoScript KIDE 2025\NemoScript KIDE 2025\bin\publish\NemoScript KIDE 2025.exe
